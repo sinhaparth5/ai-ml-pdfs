@@ -1,4 +1,4 @@
 Links
 Low Latency Programming: https://github.com/penberg/awesome-low-latency
 UC Berkeley's Introduction to Mathematical Thinking: http://imt-decal.org/
-
+University of Waterloo Data Analytics: https://uwaterloo.ca/data-analytics/videos-and-slides-courses
